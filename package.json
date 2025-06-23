@@ -1,0 +1,28 @@
+{
+  "name": "express-concept",
+  "version": "1.0.0",
+  "description": "\"# express-concept\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolomonBekele/express-concept.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SolomonBekele/express-concept/issues"
+  },
+  "homepage": "https://github.com/SolomonBekele/express-concept#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
